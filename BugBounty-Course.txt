@@ -1,0 +1,86 @@
+What you need know before joining course ?
+Burpsuite only
+
+How to enroll ?
+Fill https://forms.gle/Uh4febccequ38goJ6 then proceed for payment
+Fee 10k INR
+
+Session time : Indian time 
+Saturday and sunday (12PM to 2 PM)
+Timing may slight change as per students requirement
+Platform: Zoom
+
+What you will learn ?
+
+P1 bugs:
+
+1.Source code analysis
+2.Finding API, Server keys.
+3.Unauth RCE
+4.Sensitive data for target
+5.AWS instance exploit EC2
+6.Desk hacking
+7.Methods of key exploitation
+
+P2 bugs:
+Access control bugs
+1. Against local server
+2. Attacking backend system
+3. Blacklist Bypass
+4. SSRF via open redirection
+5. Blind SSRF
+
+Remaining bugs are Business logic
+
+4 july:
+Target approaching
+
+Source code analysis
+
+Finding API, Server keys
+
+5 July:
+
+Unauth RCE
+
+Finding Sensitive data for target
+1. DB
+2. Credentials
+3. Aws keys
+4. Hard data finiding
+
+Self dork creation
+
+11 july:
+
+1.Desk hacking
+2. 2FA bypass
+3. Token validation bypass
+4. 2FA bypas by tampering
+
+12 july:
+1. Memory courption for webapp
+2. Comment injection to ext SSRF
+
+18 and 19 july:
+SSRF
+1. Against local server
+2. Attacking backend system
+3. AWS instance exploit EC2
+4. Blacklist Bypass
+5. SSRF via open redirection
+6. Blind SSRF
+
+25 and 26 july:
+1.Report writing
+
+
+Access control bugs
+1. Vertical privilege escalation
+2. Parameter-based access control
+3. platform misconfiguration
+4. Horizontal privilege escalation
+5. Horizontal to vertical privilege escalation
+6. Insecure direct object references
+
+Fee 10k INR
